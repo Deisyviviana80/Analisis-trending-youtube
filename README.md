@@ -106,5 +106,5 @@ Dataset de YouTube Trending disponible públicamente. Contiene registros de vide
 
 ## 👤 Autor
 
-Hecho con 💙 por **[Tu nombre]**  
-[LinkedIn](#) · [GitHub](#)
+Hecho por **DEisy Hurtado**  
+www.linkedin.com/in/deisyhurtado-analistadedatos
